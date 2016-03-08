@@ -1,0 +1,7 @@
+C:\Users\mcmellawatt\Documents\Visual Studio 2013\Projects\AdvCSharpQ1Project\AdvCSharpQ1Project\bin\Images\img1.jpg
+C:\Users\mcmellawatt\Documents\Visual Studio 2013\Projects\AdvCSharpQ1Project\AdvCSharpQ1Project\bin\AdvCSharpQ1Project.dll.config
+C:\Users\mcmellawatt\Documents\Visual Studio 2013\Projects\AdvCSharpQ1Project\AdvCSharpQ1Project\bin\AdvCSharpQ1Project.dll
+C:\Users\mcmellawatt\Documents\Visual Studio 2013\Projects\AdvCSharpQ1Project\AdvCSharpQ1Project\bin\AdvCSharpQ1Project.pdb
+C:\Users\mcmellawatt\Documents\Visual Studio 2013\Projects\AdvCSharpQ1Project\AdvCSharpQ1Project\obj\Release\AdvCSharpQ1Project.csprojResolveAssemblyReference.cache
+C:\Users\mcmellawatt\Documents\Visual Studio 2013\Projects\AdvCSharpQ1Project\AdvCSharpQ1Project\obj\Release\AdvCSharpQ1Project.dll
+C:\Users\mcmellawatt\Documents\Visual Studio 2013\Projects\AdvCSharpQ1Project\AdvCSharpQ1Project\obj\Release\AdvCSharpQ1Project.pdb

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="ryanmcmahon" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\mcmellawatt\\Documents\\Visual\ Studio\ 2013\\Projects\\AdvCSharpQ1Project\\AdvCSharpQ1Project\\obj\\Release\\Package\\PackageTmp$" />
+    <parameterEntry kind="ProviderPath" scope="setAcl" match="^C:\\Users\\mcmellawatt\\Documents\\Visual\ Studio\ 2013\\Projects\\AdvCSharpQ1Project\\AdvCSharpQ1Project\\obj\\Release\\Package\\PackageTmp$" />
+  </parameter>
+  <parameter name="AdvWebDevProjectConnectionString2-Web.config Connection String" description="AdvWebDevProjectConnectionString2 Connection String used in web.config by the application to access the database." value="Data Source=fj5c9iwmqs.database.windows.net,1433;Initial Catalog=AdvWebDevProject;User ID=mcmellawatt;Password=Cowman20" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\mcmellawatt\\Documents\\Visual\ Studio\ 2013\\Projects\\AdvCSharpQ1Project\\AdvCSharpQ1Project\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='AdvWebDevProjectConnectionString2']/@connectionString" />
+  </parameter>
+</parameters>
